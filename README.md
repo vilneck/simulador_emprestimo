@@ -10,5 +10,7 @@
 ## Como instalar
 
 1 - Clonar o projeto<br>
-2 - Rodar o comando php artisan serve
+2 - Rodar o comando php artisan serve<br>
+## Como instalar
+A coleção do insomnia com os comandos para teste estão na raiz do projeto no arquivo insomnia.json
 
